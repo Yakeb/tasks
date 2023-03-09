@@ -1,7 +1,6 @@
 /* eslint-disable indent */
 /* eslint-disable prettier/prettier */
 import React, { useState } from "react";
-import { Button } from "react-bootstrap";
 
 type Holiday =
     | "Christmas"
